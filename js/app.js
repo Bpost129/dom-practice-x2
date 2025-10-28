@@ -1,2 +1,7 @@
 const titleElement = document.getElementById('main-title')
-console.log(titleElement)
+const pElement = document.querySelector('.cool')
+
+
+
+console.dir(titleElement)
+console.log(pElement)
